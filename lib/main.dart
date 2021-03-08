@@ -9,7 +9,7 @@ class MystatelessWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: new AppBar(
-        title: new Text("my super app"),
+        title: new Text("About me"),
       ),
       body: new Container(
         padding: new EdgeInsets.all(10.0),
